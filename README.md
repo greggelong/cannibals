@@ -5,7 +5,7 @@ a graphing solution
 and interactive play
 
 
-a place to hold some code for a python implementation of M and c
+a place to hold some code for a python implementation of M and C
 
 I started working on it after reading Melanie Mitchell's book artifical Intelligence
 
@@ -25,4 +25,4 @@ Second adding one or two to return the boat
 
 
 
-![graphOfAllStates.jpg](graphOfAllStates.png)
+![graphOfAllStates.jpg](graphOfAllStates.jpg)
